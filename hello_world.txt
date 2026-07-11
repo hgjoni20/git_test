@@ -1,0 +1,5 @@
+whoami
+ls 
+cd 
+ls -a 
+rm -rf
